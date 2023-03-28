@@ -14,3 +14,5 @@
 * [lecture 12](lecture-12.md)
 * [lecture 13](lecture-13.md)
 * [lecture 14](lecture-14.md)
+* [lecture 15](lecture-15.md)
+* [lecture 16](lecture-16.md)
