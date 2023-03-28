@@ -13,3 +13,4 @@
 * [lecture 11](lecture-11.md)
 * [lecture 12](lecture-12.md)
 * [lecture 13](lecture-13.md)
+* [lecture 14](lecture-14.md)

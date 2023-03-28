@@ -4,7 +4,7 @@
 
 Overview: The instructor introduces the course and its requirements.
 
-* CAC 312 and 544 is a joint course for undergrad and graduate students.
+* CSE 312 and 544 is a joint course for undergrad and graduate students.
 * Students should follow the class announcements, homework submissions, and announcements on the Teams page.
 * The recommended textbook for the course is essential to follow along with the material.
 * Students must know C programming language, computer architecture, and have passing grades from CSE102 and CSE331 to take this course.
